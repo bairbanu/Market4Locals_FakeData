@@ -3,17 +3,17 @@
     {
       "title": "Selling my cat",
       "description": "Out of money. Must sell cat",
-      "price": "$1500",
+      "price": "$1500"
     },
     {
       "title": "Selling another cat",
       "description": "Still out of money. No good. Close to eating my cat. Save it before that happens.",
-      "price": "$2500",
+      "price": "$2500"
     },
     {
       "title": "Selling YET another cat",
       "description": "I ate the last one. New cat. Fresh.",
-      "price": "$500",
+      "price": "$500"
     }
   ]
 }
