@@ -2,19 +2,16 @@
   "items": [
     {
       "title": "Selling my cat",
-      "img_url": "https://www.petmd.com/sites/default/files/petmd-cat-happy-10.jpg",
       "description": "Out of money. Must sell cat",
       "price": "$1500",
     },
     {
       "title": "Selling another cat",
-      "img_url": "https://www.petmd.com/sites/default/files/petmd-cat-happy-10.jpg",
       "description": "Still out of money. No good. Close to eating my cat. Save it before that happens.",
       "price": "$2500",
     },
     {
       "title": "Selling YET another cat",
-      "img_url": "https://www.petmd.com/sites/default/files/petmd-cat-happy-10.jpg",
       "description": "I ate the last one. New cat. Fresh.",
       "price": "$500",
     }
